@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.e11d7b84.chunk.css",
-    "main.js": "/build/static/js/main.bb618043.chunk.js",
-    "main.js.map": "/build/static/js/main.bb618043.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.6991ce1c.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.6991ce1c.js.map",
-    "static/js/2.2a143368.chunk.js": "/build/static/js/2.2a143368.chunk.js",
-    "static/js/2.2a143368.chunk.js.map": "/build/static/js/2.2a143368.chunk.js.map",
-    "index.html": "/build/index.html",
-    "static/css/main.e11d7b84.chunk.css.map": "/build/static/css/main.e11d7b84.chunk.css.map",
-    "static/js/2.2a143368.chunk.js.LICENSE.txt": "/build/static/js/2.2a143368.chunk.js.LICENSE.txt"
+    "main.css": "/retseptiraamat/static/css/main.e11d7b84.chunk.css",
+    "main.js": "/retseptiraamat/static/js/main.d6261ef1.chunk.js",
+    "main.js.map": "/retseptiraamat/static/js/main.d6261ef1.chunk.js.map",
+    "runtime-main.js": "/retseptiraamat/static/js/runtime-main.f50edb13.js",
+    "runtime-main.js.map": "/retseptiraamat/static/js/runtime-main.f50edb13.js.map",
+    "static/js/2.ec1e2476.chunk.js": "/retseptiraamat/static/js/2.ec1e2476.chunk.js",
+    "static/js/2.ec1e2476.chunk.js.map": "/retseptiraamat/static/js/2.ec1e2476.chunk.js.map",
+    "index.html": "/retseptiraamat/index.html",
+    "static/css/main.e11d7b84.chunk.css.map": "/retseptiraamat/static/css/main.e11d7b84.chunk.css.map",
+    "static/js/2.ec1e2476.chunk.js.LICENSE.txt": "/retseptiraamat/static/js/2.ec1e2476.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6991ce1c.js",
-    "static/js/2.2a143368.chunk.js",
+    "static/js/runtime-main.f50edb13.js",
+    "static/js/2.ec1e2476.chunk.js",
     "static/css/main.e11d7b84.chunk.css",
-    "static/js/main.bb618043.chunk.js"
+    "static/js/main.d6261ef1.chunk.js"
   ]
 }
