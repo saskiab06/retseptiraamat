@@ -1,0 +1,23 @@
+.new-recipe {
+  margin-bottom: 30px;
+  width: 50%;
+}
+
+.new-recipe-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.new-recipe-form input {
+  margin-bottom: 5px;
+}
+
+.new-recipe-ingredients {
+  display: flex;
+  flex-direction: column;
+}
+
+.new-recipe-directions {
+  height: 75px;
+  margin-bottom: 10px;
+}
