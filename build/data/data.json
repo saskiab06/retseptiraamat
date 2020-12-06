@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Kanapasta",
+    "tags": ["riisi- ja pastaroad"],
+    "duration": 20,
+    "ingredients": [
+      {
+        "name": "kana",
+        "quantity": "500g"
+      },
+      {
+        "name": "makaronid",
+        "quantity": "300g"
+      },
+      {
+        "name": "toidukoor",
+        "quantity": "200ml"
+      },
+      {
+        "name": "värske basiilik",
+        "quantity": "75g"
+      },
+      {
+        "name": "soola",
+        "quantity": ""
+      },
+      {
+        "name": "pipart",
+        "quantity": ""
+      }
+    ],
+    "preparation": "Keeda makaronid vastavalt paki peal olevale juhisele. Prae kana õlis. Maitsesta see soola ja pipraga. Lisa kana keedetud makaronidele ning lisa toidukoor ja basiilik. Hoia paar minutit madalal tulel kuni koor on kergelt keema läinud."
+  },
+  {
+    "name": "Mozzarellasalat",
+    "tags": ["salat"],
+    "duration": 10,
+    "ingredients": [
+      {
+        "name": "mozzarella",
+        "quantity": "250g"
+      },
+      {
+        "name": "kirsstomatid",
+        "quantity": "250g"
+      },
+      {
+        "name": "värske basiilik",
+        "quantity": "50g"
+      },
+      {
+        "name": "balsamiäädikat",
+        "quantity": ""
+      },
+      {
+        "name": "soola",
+        "quantity": ""
+      }
+    ],
+    "preparation": "Tükelda mozzarella, poolita kirsstomatid ning pane kaussi koos basiilikulehtedega. Maitsesta balasmiäädika ja soolaga."
+  }
+]
