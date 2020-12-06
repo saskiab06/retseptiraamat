@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/retseptiraamat/static/css/main.e11d7b84.chunk.css",
-    "main.js": "/retseptiraamat/static/js/main.d6261ef1.chunk.js",
-    "main.js.map": "/retseptiraamat/static/js/main.d6261ef1.chunk.js.map",
+    "main.js": "/retseptiraamat/static/js/main.b609b522.chunk.js",
+    "main.js.map": "/retseptiraamat/static/js/main.b609b522.chunk.js.map",
     "runtime-main.js": "/retseptiraamat/static/js/runtime-main.f50edb13.js",
     "runtime-main.js.map": "/retseptiraamat/static/js/runtime-main.f50edb13.js.map",
     "static/js/2.ec1e2476.chunk.js": "/retseptiraamat/static/js/2.ec1e2476.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f50edb13.js",
     "static/js/2.ec1e2476.chunk.js",
     "static/css/main.e11d7b84.chunk.css",
-    "static/js/main.d6261ef1.chunk.js"
+    "static/js/main.b609b522.chunk.js"
   ]
 }
